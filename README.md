@@ -42,8 +42,10 @@ Welcome to our Amazon Clone repository! This project is a full-fledged e-commerc
 ## Screenshots
 Here are some screenshots of the application:
 
-- ![Screenshot 1](https://example.com/screenshot1.png)
-- ![Screenshot 2](https://example.com/screenshot2.png)
+- ![HomePage](https://i.imgur.com/ipK1k6v.png)
+- ![Payment Page](https://i.imgur.com/B6MDQ21.png)
+- ![Checkout Details](https://i.imgur.com/vrHf6xl.png)
+- ![Thankyou page](https://i.imgur.com/IRSOfeb.png)
 
 Feel free to explore the visuals!
 
