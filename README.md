@@ -3,6 +3,15 @@
 
 Welcome to our Amazon Clone repository! This project is a full-fledged e-commerce platform inspired by Amazon, built using Next.js, Stripe for payment processing, Firebase for authentication and database management, and styled with Tailwind CSS.
 
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Features
 - **User Authentication:** Users can sign up, sign in, and sign out securely using Firebase Authentication.
 - **Product Listings:** Browse through a wide range of products with detailed descriptions and prices.
